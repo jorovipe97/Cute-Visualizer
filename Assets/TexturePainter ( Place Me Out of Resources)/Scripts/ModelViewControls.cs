@@ -1,4 +1,4 @@
-﻿#define DEBUG_GUI
+﻿//#define DEBUG_GUI
 using UnityEngine;
 using System.Collections;
 
